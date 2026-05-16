@@ -1,16 +1,18 @@
-## Hi there 👋
+# My Goal 
 
-<!--
-**ongken2005/ongken2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am Kendrick Ong, a college student.
 
-Here are some ideas to get you started:
+## What I Am Learning
+I am currently learning python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Why This Matters
+This matters to me because I wanted to be a successful programmer someday and make mmy life better.
+
+## What This Repository Will Contain
+- CS50P progress
+- Python practice
+- small beginner projects
+
+## Current Goal
+My current goal is to master Python.
