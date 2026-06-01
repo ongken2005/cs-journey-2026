@@ -14,5 +14,5 @@ This matters to me because I wanted to be a successful programmer someday and ma
 - Python practice
 - small beginner projects
 
-## Current Goal
-My current goal is to master Python.
+
+

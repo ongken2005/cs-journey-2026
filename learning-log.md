@@ -14,3 +14,13 @@ Key rules reviewed:
 
 Reflection:
 I need to trace the program line by line before running it.
+
+
+Today I practice Python conditionals by creating an scholarship eligibility checker 
+
+Key rules reviewed:
+- And, or and not boolean expressions
+- elif 
+- else 
+- if 
+- comparison operators such as >= <= 
