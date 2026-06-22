@@ -16,6 +16,7 @@ Reflection:
 I need to trace the program line by line before running it.
 
 
+<<<<<<< HEAD
 Today I practice Python conditionals by creating an scholarship eligibility checker 
 
 Key rules reviewed:
@@ -24,3 +25,8 @@ Key rules reviewed:
 - else 
 - if 
 - comparison operators such as >= <= 
+=======
+Today, June 21, i finished my backlogs about while loops,   
+
+I learned that... a while loop lets the program, decide on how it will repeat a task like a loop and that update step is essential in order for the while loop to stop and make progress. Additionally, it is very important to do update step in order for the program to not loop infinitely.
+>>>>>>> 304fada (update learning log for june 21)
